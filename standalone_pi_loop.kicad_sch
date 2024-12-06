@@ -2714,12 +2714,6 @@
 		(uuid "00b0bdf9-01a3-490c-984f-88508b8ded81")
 	)
 	(junction
-		(at 217.17 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d137bb1-4bd8-460b-a338-dc6aa09548e3")
-	)
-	(junction
 		(at 121.92 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2760,6 +2754,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "33288f32-67ec-45e7-a261-901fdfffdcf4")
+	)
+	(junction
+		(at 215.9 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a45adec-cb75-49fc-9dc6-812914d489dd")
 	)
 	(junction
 		(at 236.22 52.07)
@@ -2932,16 +2932,6 @@
 			(type default)
 		)
 		(uuid "0a5488d7-5268-44c2-8ca3-427ffbe667e7")
-	)
-	(wire
-		(pts
-			(xy 217.17 52.07) (xy 222.25 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d5ad192-29b3-483e-bb4c-955f433a73a6")
 	)
 	(polyline
 		(pts
@@ -3245,7 +3235,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 52.07) (xy 217.17 52.07)
+			(xy 213.36 52.07) (xy 215.9 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3415,7 +3405,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 52.07) (xy 217.17 54.61)
+			(xy 215.9 52.07) (xy 215.9 54.61)
 		)
 		(stroke
 			(width 0)
@@ -3535,7 +3525,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 57.15) (xy 222.25 57.15)
+			(xy 213.36 57.15) (xy 222.25 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3602,6 +3592,16 @@
 			(type default)
 		)
 		(uuid "ad370805-7542-4f5b-b2e9-af2d35c548fb")
+	)
+	(wire
+		(pts
+			(xy 215.9 52.07) (xy 222.25 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b05d5cf5-cbc5-4a9d-b8fa-d60b279573af")
 	)
 	(wire
 		(pts
@@ -8157,7 +8157,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Small")
-		(at 214.63 54.61 0)
+		(at 213.36 54.61 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8166,7 +8166,7 @@
 		(dnp no)
 		(uuid "a2954253-ebdb-4bd7-9535-05c04a833ad5")
 		(property "Reference" "RV3"
-			(at 211.836 52.832 90)
+			(at 210.566 52.832 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8174,7 +8174,7 @@
 			)
 		)
 		(property "Value" "500k"
-			(at 218.44 54.61 90)
+			(at 217.17 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8182,7 +8182,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
-			(at 214.63 54.61 0)
+			(at 213.36 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8191,7 +8191,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 214.63 54.61 0)
+			(at 213.36 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8200,7 +8200,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 214.63 54.61 0)
+			(at 213.36 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8209,7 +8209,7 @@
 			)
 		)
 		(property "Test" ""
-			(at 214.63 54.61 90)
+			(at 213.36 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
