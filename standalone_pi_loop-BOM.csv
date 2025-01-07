@@ -1,0 +1,25 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Digikey PN,LCSC part
+"C1,C2,C4,C5",100n,~,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,4,,,
+"C3,C6,C7",10n,~,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,3,,,
+"C8,C9,C10,C11",10u,~,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,4,,,
+C12,1n,~,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,1,,,
+"J1,J2",Conn_01x10_Pin,~,Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,2,,455-S10B-ZR-ND,
+J3,V-sense,~,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,1,,ACX1426-ND,
+J4,Conn_01x05,~,Connector_Wire:SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm,1,,,
+J5,pot+,~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,,,
+J6,pot-,~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,,,
+J7,Setpoint,~,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,1,,ACX1426-ND,
+J8,Alt out,~,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,1,,ACX1426-ND,
+J9,Alt input,~,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,1,,ACX1426-ND,
+J10,Vout,~,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,1,,ACX1426-ND,
+J11,PI input select,~,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,1,,,C49257
+"R1,R2",1k,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,,,C713997
+R3,3k3,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,,,C120067
+"R4,R7",47R,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,,,C2848560
+R5,R_{gain},~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,,,
+R6,100k,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,,,C2843019
+R8,2.2k,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,,,C714002
+RV1,10k,~,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,1,,,
+"RV2,RV3",500k,~,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,2,,,
+U1,AD823,,Package_DIP:DIP-8_W7.62mm_Socket_LongPads,1,,,C5289485
+U2,AD620,https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf,Package_DIP:DIP-8_W7.62mm_Socket_LongPads,1,,,C5289485

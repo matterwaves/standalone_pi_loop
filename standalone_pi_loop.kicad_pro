@@ -549,7 +549,7 @@
       "idf": "",
       "netlist": "",
       "plot": "",
-      "pos_files": "",
+      "pos_files": "./",
       "specctra_dsn": "",
       "step": "production/3d_model.step",
       "svg": "",
@@ -559,7 +559,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "standalone_pi_loop-BOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -626,6 +626,18 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Test",
+          "name": "Test",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC part",
+          "name": "LCSC part",
           "show": false
         }
       ],
