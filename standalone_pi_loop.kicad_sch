@@ -3833,6 +3833,16 @@
 		)
 		(uuid "0d2f51f5-9e7d-4caa-813e-194fa4f39faf")
 	)
+	(text "Resistors have a package of: L6.3mm_D2.5mm_P10.16mm_Horizontal\n"
+		(exclude_from_sim no)
+		(at 123.19 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0f475390-3cf0-4fec-adc9-69b07234b534")
+	)
 	(text "Current instrumentation amp"
 		(exclude_from_sim no)
 		(at 200.66 17.78 0)
@@ -5778,7 +5788,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
@@ -9314,6 +9323,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 21.59 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part" ""
 			(at 21.59 53.34 0)
 			(effects
 				(font

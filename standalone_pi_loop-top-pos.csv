@@ -1,36 +1,37 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
-"C1","100n","C_Disc_D4.3mm_W1.9mm_P5.00mm",168.040000,-127.500000,0.000000,top
-"C2","100n","C_Disc_D4.3mm_W1.9mm_P5.00mm",179.240000,-114.820000,90.000000,top
-"C3","10n","C_Disc_D4.3mm_W1.9mm_P5.00mm",158.040000,-127.500000,0.000000,top
-"C4","100n","C_Disc_D4.3mm_W1.9mm_P5.00mm",130.620000,-130.140000,-90.000000,top
-"C5","100n","C_Disc_D4.3mm_W1.9mm_P5.00mm",117.000000,-142.980000,180.000000,top
-"C6","10n","C_Disc_D4.3mm_W1.9mm_P5.00mm",158.140000,-130.580000,0.000000,top
-"C7","10n","C_Disc_D4.3mm_W1.9mm_P5.00mm",158.040000,-133.500000,0.000000,top
-"C8","10u","C_Disc_D4.3mm_W1.9mm_P5.00mm",168.040000,-130.500000,0.000000,top
-"C9","10u","C_Disc_D4.3mm_W1.9mm_P5.00mm",182.240000,-114.820000,90.000000,top
-"C10","10u","C_Disc_D4.3mm_W1.9mm_P5.00mm",133.420000,-135.140000,90.000000,top
-"C11","10u","C_Disc_D4.3mm_W1.9mm_P5.00mm",117.000000,-140.000000,180.000000,top
-"C12","1n","C_Disc_D4.3mm_W1.9mm_P5.00mm",166.000000,-106.250000,180.000000,top
-"J1","Conn_01x10_Pin","JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical",141.000000,-55.500000,180.000000,top
-"J2","Conn_01x10_Pin","JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical",121.000000,-55.500000,180.000000,top
-"J3","V-sense","SMA_Amphenol_132289_EdgeMount",126.000000,-147.450000,-90.000000,top
-"J5","pot+","PinHeader_1x02_P2.54mm_Vertical",117.320000,-122.940000,0.000000,top
-"J6","pot-","PinHeader_1x02_P2.54mm_Vertical",127.420000,-122.840000,0.000000,top
-"J7","Setpoint","SMA_Amphenol_132289_EdgeMount",158.000000,-147.450000,-90.000000,top
-"J8","Alt out","SMA_Amphenol_132289_EdgeMount",110.000000,-147.450000,-90.000000,top
-"J9","Alt input","SMA_Amphenol_132289_EdgeMount",142.000000,-147.450000,-90.000000,top
-"J10","Vout","SMA_Amphenol_132289_EdgeMount",174.000000,-147.450000,-90.000000,top
-"J11","PI input select","PinHeader_1x03_P2.54mm_Vertical",133.740000,-139.240000,90.000000,top
-"R1","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",183.500000,-131.580000,90.000000,top
-"R2","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",179.540000,-131.580000,90.000000,top
-"R3","3k3","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",155.540000,-118.000000,0.000000,top
-"R4","47R","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",163.040000,-137.000000,180.000000,top
-"R5","R_{gain}","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",117.260000,-129.440000,0.000000,top
-"R6","100k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",159.420000,-112.000000,0.000000,top
-"R7","47R","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",179.080000,-135.500000,180.000000,top
-"R8","2.2k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",166.080000,-103.000000,180.000000,top
-"RV1","10k","Potentiometer_Bourns_3296W_Vertical",158.540000,-122.500000,180.000000,top
-"RV2","500k","Potentiometer_Bourns_3296W_Vertical",155.540000,-113.500000,0.000000,top
-"RV3","500k","Potentiometer_Bourns_3296W_Vertical",124.900000,-118.240000,0.000000,top
-"U1","AD823","DIP-8_W7.62mm_Socket_LongPads",176.040000,-123.120000,180.000000,top
-"U2","AD620","DIP-8_W7.62mm_Socket_LongPads",119.700000,-132.700000,0.000000,top
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_Disc_D4.3mm_W1.9mm_P5.00mm,168.04,-127.5,0,top
+C2,100n,C_Disc_D4.3mm_W1.9mm_P5.00mm,179.24,-114.82,90,top
+C3,10n,C_Disc_D4.3mm_W1.9mm_P5.00mm,158.04,-127.5,0,top
+C4,100n,C_Disc_D4.3mm_W1.9mm_P5.00mm,130.62,-130.14,-90,top
+C5,100n,C_Disc_D4.3mm_W1.9mm_P5.00mm,117,-142.98,180,top
+C6,10n,C_Disc_D4.3mm_W1.9mm_P5.00mm,158.14,-130.58,0,top
+C7,10n,C_Disc_D4.3mm_W1.9mm_P5.00mm,158.04,-133.5,0,top
+C8,10u,C_Disc_D4.3mm_W1.9mm_P5.00mm,168.04,-130.5,0,top
+C9,10u,C_Disc_D4.3mm_W1.9mm_P5.00mm,182.24,-114.82,90,top
+C10,10u,C_Disc_D4.3mm_W1.9mm_P5.00mm,133.42,-135.14,90,top
+C11,10u,C_Disc_D4.3mm_W1.9mm_P5.00mm,117,-140,180,top
+C12,1n,C_Disc_D4.3mm_W1.9mm_P5.00mm,166,-106.25,180,top
+J1,Conn_01x10_Pin,JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,141,-55.5,180,top
+J2,Conn_01x10_Pin,JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,121,-55.5,180,top
+J3,V-sense,SMA_Amphenol_132289_EdgeMount,126,-147.45,-90,top
+J4,Conn_01x05,SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm,146.9,-55,0,top
+J5,pot+,PinHeader_1x02_P2.54mm_Vertical,117.32,-122.94,0,top
+J6,pot-,PinHeader_1x02_P2.54mm_Vertical,127.42,-122.84,0,top
+J7,Setpoint,SMA_Amphenol_132289_EdgeMount,158,-147.45,-90,top
+J8,Alt out,SMA_Amphenol_132289_EdgeMount,110,-147.45,-90,top
+J9,Alt input,SMA_Amphenol_132289_EdgeMount,142,-147.45,-90,top
+J10,Vout,SMA_Amphenol_132289_EdgeMount,174,-147.45,-90,top
+J11,PI input select,PinHeader_1x03_P2.54mm_Vertical,133.74,-139.24,90,top
+R1,1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,183.5,-131.58,90,top
+R2,1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,179.54,-131.58,90,top
+R3,3k3,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,155.54,-118,0,top
+R4,47R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,163.04,-137,180,top
+R5,R_{gain},R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,117.26,-129.44,0,top
+R6,100k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,159.42,-112,0,top
+R7,47R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,179.08,-135.5,180,top
+R8,2.2k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,166.08,-103,180,top
+RV1,10k,Potentiometer_Bourns_3296W_Vertical,158.54,-122.5,180,top
+RV2,500k,Potentiometer_Bourns_3296W_Vertical,155.54,-113.5,0,top
+RV3,500k,Potentiometer_Bourns_3296W_Vertical,124.9,-118.24,0,top
+U1,AD823,DIP-8_W7.62mm_Socket_LongPads,176.04,-123.12,180,top
+U2,AD620,DIP-8_W7.62mm_Socket_LongPads,119.7,-132.7,0,top

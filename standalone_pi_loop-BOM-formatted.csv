@@ -1,0 +1,25 @@
+Comment,Designator,Footprint,LCSC part
+100n,"C1,C2,C4,C5",Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,
+10n,"C3,C6,C7",Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,
+10u,"C8,C9,C10,C11",Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,
+  ,C12,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,
+Conn_01x10_Pin,"J1,J2",Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,
+V-sense,J3,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,
+Conn_01x05,J4,Connector_Wire:SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm,
+pot+,J5,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+pot-,J6,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+Setpoint,J7,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,
+Alt out,J8,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,
+Alt input,J9,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,
+Vout,J10,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,
+PI input select,J11,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,C49257
+1k,"R1,R2",Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C713997
+3k3,R3,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C120067
+47R,"R4,R7",Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C2848560
+R_{gain},R5,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+100k,R6,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C2843019
+2.2k,R8,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C714002
+10k,RV1,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,
+500k,"RV2,RV3",Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,
+AD823,U1,Package_DIP:DIP-8_W7.62mm_Socket_LongPads,C5289485
+AD620,U2,Package_DIP:DIP-8_W7.62mm_Socket_LongPads,C5289485
